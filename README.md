@@ -27,39 +27,31 @@ Uno pagó, todos ponen lo mismo. En 2 toques tenés el resultado.
 
 - Calculadora inteligente que minimiza las transferencias entre amigos
 - Creá grupos para dividir gastos recurrentes (el depto, viajes, la oficina)
-- Historial de las últimas divisiones para no perder nada
+- Historial completo de tus divisiones
 - Compartí el resumen por WhatsApp o cualquier app
 - Marcá los pagos como realizados para saber quién ya pagó
 - Vista swipeable de divisiones dentro de cada grupo
 - Modo oscuro incluido
-- 10 monedas soportadas (ARS, USD, EUR, BRL y más)
+- Balances, estadísticas por categoría y resumen en PDF
 
 ---
 
-## 🆓 Gratis vs ⭐ Pro
+## 🆓 Todo gratis
 
-| Función | Gratis | Pro |
-|---------|--------|-----|
-| División rápida (3 modos) | ✅ | ✅ |
-| Compartir resumen | ✅ | ✅ |
-| Historial de divisiones | ✅ | ✅ |
-| Modo oscuro | ✅ | ✅ |
-| Grupos activos | 3 | Ilimitados |
-| Gráficos de balance | ❌ | ✅ |
-| Estadísticas por categoría | ❌ | ✅ |
-| Exportar resumen en PDF | ❌ | ✅ |
-| Multi-moneda con tipo de cambio | ❌ | ✅ |
+Todas las funciones están libres, sin límites: grupos ilimitados, historial completo, balances y estadísticas, exportar resumen en PDF.
 
-**Pro:** $1.99 USD — compra única, para siempre.
+La versión gratis muestra un anuncio discreto abajo, sólo en las pestañas Grupos e Historial. Nunca mientras dividís.
+
+**⭐ Mitap Pro** saca la publicidad de toda la app. Pago único, sin suscripción, tuyo para siempre.
 
 ---
 
 ## 🔒 Privacidad
 
-- **No recopilamos datos personales**
-- Todo se almacena localmente en tu dispositivo
-- Sin rastreo, sin anuncios, sin cuentas de usuario
-- Internet solo para compras in-app (Google Play Billing)
+- **Tus gastos no salen de tu teléfono:** grupos, nombres y montos se guardan sólo en tu dispositivo
+- Sin cuentas de usuario
+- Internet para compras in-app (Google Play Billing) y, en la versión gratis, para los anuncios de Google AdMob
+- Con Mitap Pro no se cargan anuncios
 
 📄 [Política de Privacidad completa](PRIVACY_POLICY.md)
 
