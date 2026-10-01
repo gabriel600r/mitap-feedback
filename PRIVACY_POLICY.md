@@ -56,6 +56,10 @@ The App requests the following Android permissions:
 
 We do not sell, trade, or share your expense data. The App includes a "Share" feature that lets you manually share expense summaries and PDF exports via your device's share sheet (WhatsApp, email, etc.). This is entirely user-initiated and we have no access to the shared content.
 
+### Sharing a group (link or QR)
+
+You can share a group with other people as a link or a QR code. The group (its name, participants' names, expenses and payments) travels **inside the link itself**, after the "#" sign. Browsers never send that part to a server, so the group does not pass through EgeaINC's servers: the page at egeainc.com/mitap/g/ only hands the link to the App or points to Google Play. Anyone who has the link can see the group, so share it only with the people it belongs to.
+
 ## Children's Privacy
 
 The App is not directed at children under 13. It does not knowingly collect information from children.

@@ -5,6 +5,12 @@
 - La versión gratis muestra un anuncio discreto abajo. Nunca mientras cargás nombres o montos.
 - **Mitap Pro** ahora saca la publicidad. Si ya lo compraste, sigue siendo tuyo y no ves anuncios.
 - Si reinstalás la app, Mitap Pro se recupera solo desde Google Play.
+- **Los grupos suman gastos:** dividí desde un grupo y el gasto se suma a ese grupo. Antes cada división creaba un grupo nuevo.
+- **Resumen del grupo:** el total, el balance de todos los gastos y quién le transfiere a quién para quedar a mano. Marcá cada pago cuando se hace.
+- Un gasto puede ser de algunos del grupo (3 de 5 en una cena).
+- **Multi-moneda:** cargá un gasto en otra moneda con tu tipo de cambio; el grupo lo suma en su moneda.
+- **Compartir grupo** con un link o un QR. Si lo volvés a compartir, el otro actualiza su copia.
+- No se puede cargar dos veces el mismo nombre en una división.
 
 ## 1.0.2 — agosto 2026
 - Lista para Android 16.

@@ -26,7 +26,9 @@ Uno pagó, todos ponen lo mismo. En 2 toques tenés el resultado.
 ## 📱 Funciones principales
 
 - Calculadora inteligente que minimiza las transferencias entre amigos
-- Creá grupos para dividir gastos recurrentes (el depto, viajes, la oficina)
+- Creá grupos para dividir gastos recurrentes (el depto, viajes, la oficina), con el balance de todo el grupo
+- Gastos en otra moneda con tu tipo de cambio (ideal para viajes)
+- Compartí un grupo con un link o un QR
 - Historial completo de tus divisiones
 - Compartí el resumen por WhatsApp o cualquier app
 - Marcá los pagos como realizados para saber quién ya pagó
@@ -38,7 +40,7 @@ Uno pagó, todos ponen lo mismo. En 2 toques tenés el resultado.
 
 ## 🆓 Todo gratis
 
-Todas las funciones están libres, sin límites: grupos ilimitados, historial completo, balances y estadísticas, exportar resumen en PDF.
+Todas las funciones están libres, sin límites: grupos ilimitados, historial completo, balances y estadísticas, multi-moneda, compartir grupos y exportar resumen en PDF.
 
 La versión gratis muestra un anuncio discreto abajo. Nunca mientras cargás nombres o montos.
 
