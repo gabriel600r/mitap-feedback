@@ -40,7 +40,7 @@ Uno pagó, todos ponen lo mismo. En 2 toques tenés el resultado.
 
 Todas las funciones están libres, sin límites: grupos ilimitados, historial completo, balances y estadísticas, exportar resumen en PDF.
 
-La versión gratis muestra un anuncio discreto abajo, sólo en las pestañas Grupos e Historial. Nunca mientras dividís.
+La versión gratis muestra un anuncio discreto abajo. Nunca mientras cargás nombres o montos.
 
 **⭐ Mitap Pro** saca la publicidad de toda la app. Pago único, sin suscripción, tuyo para siempre.
 

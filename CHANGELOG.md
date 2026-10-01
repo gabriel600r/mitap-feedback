@@ -2,7 +2,7 @@
 
 ## 1.1.0 — octubre 2026
 - **Todo gratis, sin límites:** grupos ilimitados, historial completo, balances, estadísticas y exportar PDF para todos.
-- La versión gratis muestra un anuncio discreto, sólo en Grupos e Historial. Nunca mientras dividís.
+- La versión gratis muestra un anuncio discreto abajo. Nunca mientras cargás nombres o montos.
 - **Mitap Pro** ahora saca la publicidad. Si ya lo compraste, sigue siendo tuyo y no ves anuncios.
 - Si reinstalás la app, Mitap Pro se recupera solo desde Google Play.
 
