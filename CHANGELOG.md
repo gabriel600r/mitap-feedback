@@ -1,5 +1,11 @@
 # Novedades de Mitap
 
+## 1.1.1 — octubre 2026
+- El lugar del anuncio aparece desde el principio, así nunca cae donde ibas a tocar.
+- Con Mitap Pro, o cuando no hay anuncio, nada queda tapado por la barra de navegación del celular.
+- El anuncio no recibe toques el primer segundo después de aparecer.
+- "Privacidad de anuncios" (Europa y Reino Unido) abre bien y avisa si no pudo.
+
 ## 1.1.0 — octubre 2026
 - **Todo gratis, sin límites:** grupos ilimitados, historial completo, balances, estadísticas y exportar PDF para todos.
 - La versión gratis muestra un anuncio discreto abajo. Nunca mientras cargás nombres o montos.
