@@ -1,5 +1,9 @@
 # Novedades de Mitap
 
+## 1.1.2 — noviembre 2026
+- Comprar Mitap Pro ya no se queda sin responder si Google Play se actualizó con la app abierta: Mitap se vuelve a conectar solo y, si no puede, te avisa para que pruebes de nuevo.
+- Si Google Play falla un momento, Mitap Pro no se pierde.
+
 ## 1.1.1 — octubre 2026
 - El lugar del anuncio aparece desde el principio, así nunca cae donde ibas a tocar.
 - Con Mitap Pro, o cuando no hay anuncio, nada queda tapado por la barra de navegación del celular.
